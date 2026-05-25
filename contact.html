@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Memories Fond</title>
+  <meta name="description" content="Contact Andrew Abel — author of Memories Fond children's books.">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    .contact-section { max-width: 580px; margin: 0 auto; padding: 3rem 1.5rem; }
+    .contact-section h1 { font-family: 'Playfair Display', serif; font-size: 2rem; color: #2c3e50; margin-bottom: 0.75rem; }
+    .contact-section p { color: #555; margin-bottom: 2rem; }
+    .contact-form label { display: block; font-weight: 700; font-size: 0.85rem; color: #444; margin-bottom: 0.35rem; }
+    .contact-form input, .contact-form textarea {
+      width: 100%; padding: 0.65rem 0.85rem; border: 1px solid #ddd; border-radius: 5px;
+      font-family: inherit; font-size: 0.95rem; color: #333; margin-bottom: 1.25rem;
+      transition: border-color 0.2s;
+    }
+    .contact-form input:focus, .contact-form textarea:focus { outline: none; border-color: #e07b39; }
+    .contact-form textarea { resize: vertical; min-height: 130px; }
+    .contact-form button { width: 100%; }
+  </style>
+</head>
+<body>
+
+<header>
+  <nav>
+    <a class="logo" href="index.html">Memories Fond
+      <span>Heartwarming Children's Books by Andrew Abel</span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li class="dropdown">
+        <a href="#">Books</a>
+        <ul class="dropdown-menu">
+          <li><a href="books/zac-in-a-santa-hat.html">Zac in a Santa Hat</a></li>
+          <li><a href="books/a-useless-book.html">A Useless Book</a></li>
+          <li><a href="books/seasons-with-dad.html">Seasons with Dad</a></li>
+          <li><a href="books/big-bad-wolfs-birthday.html">Big Bad Wolf's Birthday</a></li>
+          <li><a href="books/finding-granny.html">Finding Granny</a></li>
+          <li><a href="books/adopt-a-dinosaur.html">Adopt a Dinosaur</a></li>
+          <li><a href="books/i-like-earth.html">I Like Earth</a></li>
+          <li><a href="books/slice-and-ice.html">Slice &amp; Ice</a></li>
+          <li><a href="books/walking-with-dad.html">Walking with Dad</a></li>
+          <li><a href="books/zac-is-back.html">Zac is Back!</a></li>
+          <li><a href="books/the-farmers-crop.html">The Farmer's Crop</a></li>
+        </ul>
+      </li>
+      <li><a href="videos.html">Videos</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="contact-section">
+  <h1>Contact Us</h1>
+  <p>Got a question, school visit enquiry, or just want to say hello? Send a message below or email Andrew directly at <a href="mailto:andyabel@gmail.com">andyabel@gmail.com</a>.</p>
+
+  <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" required placeholder="Your name">
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email" required placeholder="your@email.com">
+
+    <label for="message">Message</label>
+    <textarea id="message" name="message" required placeholder="Your message…"></textarea>
+
+    <button class="btn" type="submit">Send Message</button>
+  </form>
+</div>
+
+<footer>
+  <p>&copy; 2026 by Andrew Abel. All rights reserved.</p>
+  <nav class="social-links">
+    <a href="https://www.facebook.com" target="_blank" rel="noopener">Facebook</a>
+    <a href="https://www.amazon.com" target="_blank" rel="noopener">Amazon</a>
+    <a href="https://www.etsy.com" target="_blank" rel="noopener">Etsy</a>
+    <a href="https://www.instagram.com" target="_blank" rel="noopener">Instagram</a>
+    <a href="https://www.youtube.com" target="_blank" rel="noopener">YouTube</a>
+  </nav>
+</footer>
+
+</body>
+</html>

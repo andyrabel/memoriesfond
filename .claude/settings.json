@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/aabel/.ssh/**)",
+      "Bash(ssh-add -l)",
+      "WebFetch(domain:www.memoriesfond.com)",
+      "Bash(ls ~/github/memoriesfond/ 2>/dev/null || ls ~/github/)",
+      "Read(//home/aabel/github/**)",
+      "Bash(mkdir -p ~/github/memoriesfond/css ~/github/memoriesfond/img)"
+    ],
+    "additionalDirectories": [
+      "/home/aabel/github/memoriesfond"
+    ]
+  }
+}
