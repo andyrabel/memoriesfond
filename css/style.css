@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  color: #333;
+  color: #000;
   background: #fff;
   line-height: 1.6;
 }
@@ -26,10 +26,10 @@ nav {
 }
 
 .logo {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Mali', cursive;
   font-size: 1.15rem;
   font-weight: 700;
-  color: #2c3e50;
+  color: #000;
   text-decoration: none;
   line-height: 1.2;
 }
@@ -38,7 +38,7 @@ nav {
   font-family: 'Lato', sans-serif;
   font-size: 0.72rem;
   font-weight: 400;
-  color: #888;
+  color: #555;
   letter-spacing: 0.02em;
 }
 
@@ -50,7 +50,7 @@ nav {
 }
 .nav-links > li > a {
   text-decoration: none;
-  color: #444;
+  color: #000;
   font-size: 0.85rem;
   font-weight: 700;
   letter-spacing: 0.05em;
@@ -73,7 +73,7 @@ nav {
   display: block;
   width: 24px;
   height: 2px;
-  background: #444;
+  background: #000;
   transition: 0.3s;
 }
 
@@ -97,7 +97,7 @@ nav {
   display: block;
   padding: 0.55rem 1rem;
   font-size: 0.83rem;
-  color: #444;
+  color: #000;
   text-decoration: none;
   border-bottom: 1px solid #f5f5f5;
   text-transform: none;
@@ -109,7 +109,8 @@ nav {
 
 /* ── Featured ── */
 .featured {
-  background: linear-gradient(135deg, #fef9f0 0%, #fde8c8 100%);
+  background: #fff;
+  border-bottom: 1px solid #e8e8e8;
   padding: 3.5rem 1.5rem;
 }
 .featured-inner {
@@ -156,13 +157,13 @@ nav {
   display: block;
 }
 .featured-text h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 1.9rem;
-  color: #2c3e50;
+  color: #000;
   margin-bottom: 0.75rem;
 }
 .featured-text p {
-  color: #555;
+  color: #000;
   margin-bottom: 1.25rem;
   max-width: 420px;
 }
@@ -184,9 +185,9 @@ main { max-width: 1100px; margin: 0 auto; padding: 3rem 1.5rem; }
 section { margin-bottom: 3.5rem; }
 
 section h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 1.6rem;
-  color: #2c3e50;
+  color: #000;
   margin-bottom: 1.5rem;
   padding-bottom: 0.6rem;
   border-bottom: 3px solid #e07b39;
@@ -220,8 +221,8 @@ section h2 {
 }
 .book-cover-wrap:hover { transform: translateY(-3px); box-shadow: 3px 7px 16px rgba(0,0,0,0.2); }
 .book-cover-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.book-card h3 { font-size: 0.92rem; font-weight: 700; color: #2c3e50; margin-bottom: 0.35rem; }
-.book-card p { font-size: 0.8rem; color: #666; margin-bottom: 0.5rem; line-height: 1.4; }
+.book-card h3 { font-size: 0.92rem; font-weight: 700; color: #000; margin-bottom: 0.35rem; }
+.book-card p { font-size: 0.8rem; color: #000; margin-bottom: 0.5rem; line-height: 1.4; }
 .book-card a.more { font-size: 0.82rem; color: #e07b39; font-weight: 700; text-decoration: none; }
 .book-card a.more:hover { text-decoration: underline; }
 
@@ -238,6 +239,21 @@ section h2 {
 .cover-sky    { background: #4a87c8; }
 .cover-earth  { background: #8a7a3a; }
 
+/* ── Book detail cover (individual book pages) ── */
+.book-detail-cover img { width: 100%; height: 100%; object-fit: cover; border-radius: 6px; display: block; }
+
+/* ── About author photo ── */
+.about-author-photo {
+  float: right;
+  margin: 0 0 1.5rem 2rem;
+  width: 200px;
+  border-radius: 8px;
+  box-shadow: 4px 4px 14px rgba(0,0,0,0.15);
+}
+@media (max-width: 600px) {
+  .about-author-photo { float: none; display: block; margin: 0 auto 1.5rem; }
+}
+
 /* ── About page ── */
 .about-section {
   max-width: 780px;
@@ -245,13 +261,13 @@ section h2 {
   padding: 3rem 1.5rem;
 }
 .about-section h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 2rem;
-  color: #2c3e50;
+  color: #000;
   margin-bottom: 1.5rem;
 }
 .about-section p {
-  color: #555;
+  color: #000;
   margin-bottom: 1.25rem;
   font-size: 1rem;
 }
@@ -259,15 +275,16 @@ section h2 {
 
 /* ── Footer ── */
 footer {
-  background: #2c3e50;
-  color: #bbb;
+  background: #fff;
+  color: #000;
+  border-top: 1px solid #e8e8e8;
   text-align: center;
   padding: 2.5rem 1.5rem;
 }
 footer p { font-size: 0.82rem; margin-bottom: 1rem; }
 .social-links { display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; }
 .social-links a {
-  color: #bbb;
+  color: #000;
   text-decoration: none;
   font-size: 0.82rem;
   font-weight: 600;
