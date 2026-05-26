@@ -185,7 +185,7 @@ section h2 {
 /* ── Book grid ── */
 .book-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
 }
 .book-card { text-align: center; }
@@ -281,4 +281,5 @@ footer p { font-size: 0.82rem; margin-bottom: 1rem; }
   .nav-toggle { display: flex; }
   nav { flex-wrap: wrap; position: relative; }
   .dropdown-menu { position: static; box-shadow: none; border: none; border-left: 3px solid #e07b39; margin-left: 1rem; }
+  .book-grid { grid-template-columns: 1fr; }
 }
