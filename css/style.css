@@ -115,6 +115,36 @@ nav {
 .dropdown-menu a:last-child { border-bottom: none; }
 .dropdown-menu a:hover { background: #fef6f0; color: #e07b39; }
 
+/* ── Cover ticker ── */
+.cover-ticker {
+  overflow: hidden;
+  background: #fef6f0;
+  border-bottom: 2px solid #e8e8e8;
+  padding: 0.75rem 0;
+}
+.cover-ticker-track {
+  display: flex;
+  gap: 1rem;
+  width: max-content;
+  animation: ticker-scroll 45s linear infinite;
+}
+.cover-ticker:hover .cover-ticker-track { animation-play-state: paused; }
+.cover-ticker img {
+  height: 90px;
+  width: auto;
+  display: block;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.18);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.cover-ticker a:hover img {
+  transform: scale(1.07);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.28);
+}
+@keyframes ticker-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
 
 .btn {
   display: inline-block;
