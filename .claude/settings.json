@@ -17,10 +17,19 @@
       "Bash(git -C /home/aabel/github/memoriesfond add css/style.css books/)",
       "Bash(git -C /home/aabel/github/memoriesfond add \"img/Adopt a Dinosaur - Front Cover #3.jpg\" \"img/Seasons With Dad - Cover #12.jpg\" index.html books/seasons-with-dad.html books/adopt-a-dinosaur.html)",
       "Bash(git -C /home/aabel/github/memoriesfond add css/style.css)",
-      "Bash(git -C /home/aabel/github/memoriesfond add index.html css/style.css)"
+      "Bash(git -C /home/aabel/github/memoriesfond add index.html css/style.css)",
+      "Bash(perl -i -0777 -pe 's|\\(<footer>\\\\n\\)|$1  <img src=\"../img/Memories Fond 2023-12-15 Double Size.png\" alt=\"Memories Fond\" class=\"footer-brand\">\\\\n|g' /home/aabel/github/memoriesfond/books/*.html)",
+      "Bash(sed -i 's/href=\"index\\\\.html>/href=\"index.html\">/g' /home/aabel/github/memoriesfond/index.html /home/aabel/github/memoriesfond/about.html /home/aabel/github/memoriesfond/contact.html /home/aabel/github/memoriesfond/videos.html *)",
+      "Bash(echo \"remaining broken hrefs: $?\")",
+      "Bash(sed -i 's/Seasons With Dad - Cover #12\\\\.jpg/Seasons With Dad - Cover #12.avif/g' /home/aabel/github/memoriesfond/index.html /home/aabel/github/memoriesfond/books/seasons-with-dad.html)",
+      "Bash(sed -i 's/Adopt a Dinosaur - Front Cover #3\\\\.jpg/Adopt a Dinosaur - Front Cover #3.avif/g' /home/aabel/github/memoriesfond/index.html /home/aabel/github/memoriesfond/books/adopt-a-dinosaur.html)",
+      "Bash(perl -i -0777 -pe 's|<header>\\\\n  <nav>\\\\n    <a class=\"logo\" href=\"\\\\.\\\\.\\\\/index\\\\.html\">.*?</a>\\\\n|<header>\\\\n  <div class=\"site-brand\">\\\\n    <a href=\"../index.html\">\\\\~ Memories Fond \\\\~</a>\\\\n  </div>\\\\n  <nav>\\\\n|s' /home/aabel/github/memoriesfond/books/*.html)",
+      "Bash(git -C /home/aabel/github/memoriesfond ls-files img/)",
+      "Bash(git -C /home/aabel/github/memoriesfond status --short img/)"
     ],
     "additionalDirectories": [
-      "/home/aabel/github/memoriesfond"
+      "/home/aabel/github/memoriesfond",
+      "/home/aabel/github/memoriesfond/books"
     ]
   }
 }
