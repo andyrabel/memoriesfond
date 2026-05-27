@@ -27,7 +27,8 @@
       "Bash(git -C /home/aabel/github/memoriesfond ls-files img/)",
       "Bash(git -C /home/aabel/github/memoriesfond status --short img/)",
       "Bash(mv \"Seasons With Dad - Cover #12.jpg\" \"Seasons With Dad - Cover 12.jpg\")",
-      "Bash(mv \"Adopt a Dinosaur - Front Cover #3.jpg\" \"Adopt a Dinosaur - Front Cover 3.jpg\")"
+      "Bash(mv \"Adopt a Dinosaur - Front Cover #3.jpg\" \"Adopt a Dinosaur - Front Cover 3.jpg\")",
+      "Bash(python3)"
     ],
     "additionalDirectories": [
       "/home/aabel/github/memoriesfond",
