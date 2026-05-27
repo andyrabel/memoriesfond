@@ -6,7 +6,18 @@
       "WebFetch(domain:www.memoriesfond.com)",
       "Bash(ls ~/github/memoriesfond/ 2>/dev/null || ls ~/github/)",
       "Read(//home/aabel/github/**)",
-      "Bash(mkdir -p ~/github/memoriesfond/css ~/github/memoriesfond/img)"
+      "Bash(mkdir -p ~/github/memoriesfond/css ~/github/memoriesfond/img)",
+      "Bash(git -C /home/aabel/github/memoriesfond status)",
+      "Bash(git -C /home/aabel/github/memoriesfond diff)",
+      "Bash(git -C /home/aabel/github/memoriesfond log --oneline -5)",
+      "Bash(git -C /home/aabel/github/memoriesfond add about.html books/ contact.html css/style.css index.html videos.html img/)",
+      "Bash(git -C /home/aabel/github/memoriesfond commit -m ' *)",
+      "Bash(git -C /home/aabel/github/memoriesfond push)",
+      "Bash(gh run *)",
+      "Bash(git -C /home/aabel/github/memoriesfond add css/style.css books/)",
+      "Bash(git -C /home/aabel/github/memoriesfond add \"img/Adopt a Dinosaur - Front Cover #3.jpg\" \"img/Seasons With Dad - Cover #12.jpg\" index.html books/seasons-with-dad.html books/adopt-a-dinosaur.html)",
+      "Bash(git -C /home/aabel/github/memoriesfond add css/style.css)",
+      "Bash(git -C /home/aabel/github/memoriesfond add index.html css/style.css)"
     ],
     "additionalDirectories": [
       "/home/aabel/github/memoriesfond"
