@@ -25,7 +25,9 @@
       "Bash(sed -i 's/Adopt a Dinosaur - Front Cover #3\\\\.jpg/Adopt a Dinosaur - Front Cover #3.avif/g' /home/aabel/github/memoriesfond/index.html /home/aabel/github/memoriesfond/books/adopt-a-dinosaur.html)",
       "Bash(perl -i -0777 -pe 's|<header>\\\\n  <nav>\\\\n    <a class=\"logo\" href=\"\\\\.\\\\.\\\\/index\\\\.html\">.*?</a>\\\\n|<header>\\\\n  <div class=\"site-brand\">\\\\n    <a href=\"../index.html\">\\\\~ Memories Fond \\\\~</a>\\\\n  </div>\\\\n  <nav>\\\\n|s' /home/aabel/github/memoriesfond/books/*.html)",
       "Bash(git -C /home/aabel/github/memoriesfond ls-files img/)",
-      "Bash(git -C /home/aabel/github/memoriesfond status --short img/)"
+      "Bash(git -C /home/aabel/github/memoriesfond status --short img/)",
+      "Bash(mv \"Seasons With Dad - Cover #12.jpg\" \"Seasons With Dad - Cover 12.jpg\")",
+      "Bash(mv \"Adopt a Dinosaur - Front Cover #3.jpg\" \"Adopt a Dinosaur - Front Cover 3.jpg\")"
     ],
     "additionalDirectories": [
       "/home/aabel/github/memoriesfond",
