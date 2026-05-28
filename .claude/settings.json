@@ -34,7 +34,8 @@
       "Bash(mysql -h localhost -P 3306 -u ytmonitor -pytmonitor mybooks -e \"SELECT youtube_id, title, thumbnail, published_at, duration, views FROM videos WHERE content_type = 'full length read-aloud' ORDER BY published_at DESC;\")",
       "Bash(python3 -m http.server 7823)",
       "Bash(echo \"PID: $!\")",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:7823/videos.html)"
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:7823/videos.html)",
+      "Bash(kill 2375)"
     ],
     "additionalDirectories": [
       "/home/aabel/github/memoriesfond",
