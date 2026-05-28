@@ -9,11 +9,19 @@
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Mali:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <style>
-    .videos-section { max-width: 900px; margin: 0 auto; padding: 3rem 1.5rem; }
+    .videos-section { max-width: 960px; margin: 0 auto; padding: 3rem 1.5rem; }
     .videos-section h1 { font-family: 'Lato', sans-serif; font-size: 2rem; color: #000; margin-bottom: 0.75rem; }
-    .videos-section p { color: #555; margin-bottom: 2rem; }
+    .videos-section > p { color: #555; margin-bottom: 2rem; }
     .video-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; }
-    .video-placeholder { aspect-ratio: 16/9; background: #2c3e50; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 0.9rem; text-align: center; padding: 1rem; }
+    .video-card { border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.12); background: #fff; transition: transform 0.15s, box-shadow 0.15s; }
+    .video-card:hover { transform: translateY(-3px); box-shadow: 0 6px 18px rgba(0,0,0,0.18); }
+    .video-thumb { position: relative; display: block; aspect-ratio: 16/9; overflow: hidden; }
+    .video-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .video-thumb .play-btn { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; background: rgba(0,0,0,0.25); opacity: 0; transition: opacity 0.15s; }
+    .video-card:hover .play-btn { opacity: 1; }
+    .play-btn i { font-size: 3rem; color: #fff; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5)); }
+    .video-info { padding: 0.75rem 1rem 1rem; }
+    .video-info h3 { font-family: 'Lato', sans-serif; font-size: 0.92rem; font-weight: 700; color: #222; margin: 0; line-height: 1.35; }
   </style>
 </head>
 <body>
@@ -53,13 +61,99 @@
 
 <div class="videos-section">
   <h1>Videos</h1>
-  <p>Andrew produces free videos to bring his books to life. Visit his <a href="https://www.youtube.com/@memoriesfond1953/videos" target="_blank" rel="noopener">YouTube channel</a> to watch them all.</p>
-  <!-- Add YouTube embeds here, e.g.:
+  <p>Andrew produces free read-aloud videos to bring his books to life. Visit his <a href="https://www.youtube.com/@memoriesfond1953/videos" target="_blank" rel="noopener">YouTube channel</a> to watch them all.</p>
   <div class="video-grid">
-    <iframe width="100%" style="aspect-ratio:16/9;border-radius:6px;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
+<div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=sNKXOBjRw8g" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/sNKXOBjRw8g/mqdefault.jpg" alt="Zac in a Santa Hat: A &#39;God is Love&#39; Story by Andrew Abel" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Zac in a Santa Hat: A 'God is Love' Story by Andrew Abel</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=4CEHwMHOdws" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/4CEHwMHOdws/mqdefault.jpg" alt="The Big Bad Wolf's Birthday, by Andrew Abel" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>The Big Bad Wolf's Birthday, by Andrew Abel</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=LT3lW8VpRVc" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/LT3lW8VpRVc/mqdefault.jpg" alt="A Useless Book, by Andrew Abel" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>A Useless Book, by Andrew Abel</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=GSvoA4RMy3k" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/GSvoA4RMy3k/mqdefault.jpg" alt="Seasons with Dad - a Children's Rhyming Picture Book" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Seasons with Dad — a Children's Rhyming Picture Book</h3></div>
+    </div>
+
+
+<div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=r--BMYBGZps" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/r--BMYBGZps/mqdefault.jpg" alt="Zac is Back: A 'God is Love' Story by Andrew Abel" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Zac is Back: A 'God is Love' Story by Andrew Abel</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=F7bsvMuzJx4" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/F7bsvMuzJx4/mqdefault.jpg" alt="Slice &amp; Ice - Children's Rhyming Picture Book Story" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Slice &amp; Ice — Children's Rhyming Picture Book Story</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=Q4Nop1ziQsQ" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/Q4Nop1ziQsQ/mqdefault.jpg" alt="I like Earth - Children's Rhyming Picture Book" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>I Like Earth — Children's Rhyming Picture Book</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=hub_e9do6ps" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/hub_e9do6ps/mqdefault.jpg" alt="Adopt a Dinosaur - Children's Rhyming Picture Book" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Adopt a Dinosaur — Children's Rhyming Picture Book</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=J9GYy1G2B1o" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/J9GYy1G2B1o/mqdefault.jpg" alt="The Farmer's Crop - Christian Children's Rhyming Picture Book" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>The Farmer's Crop — Christian Children's Rhyming Picture Book</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=RADotUer-9E" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/RADotUer-9E/mqdefault.jpg" alt="Finding Granny (US) - Children's Rhyming Picture Book Story" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Finding Granny (US) — Children's Rhyming Picture Book Story</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=_k7B3ABPZmY" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/_k7B3ABPZmY/mqdefault.jpg" alt="Walking with Dad (US with subtitles)" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Walking with Dad (US with subtitles)</h3></div>
+    </div>
+
   </div>
-  -->
-  <p><em>Video embeds coming soon — add your YouTube video IDs to this page.</em></p>
 </div>
 
 <footer>
@@ -74,5 +168,11 @@
   </nav>
 </footer>
 
+<script>
+  const grid = document.querySelector('.video-grid');
+  const cards = [...grid.children];
+  cards.sort(() => Math.random() - 0.5);
+  cards.forEach(c => grid.appendChild(c));
+</script>
 </body>
 </html>

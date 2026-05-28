@@ -28,7 +28,13 @@
       "Bash(git -C /home/aabel/github/memoriesfond status --short img/)",
       "Bash(mv \"Seasons With Dad - Cover #12.jpg\" \"Seasons With Dad - Cover 12.jpg\")",
       "Bash(mv \"Adopt a Dinosaur - Front Cover #3.jpg\" \"Adopt a Dinosaur - Front Cover 3.jpg\")",
-      "Bash(python3)"
+      "Bash(python3)",
+      "Bash(mysql -h localhost -P 3306 -u ytmonitor -pytmonitor mybooks -e \"DESCRIBE videos; SELECT * FROM videos LIMIT 5\\\\G\")",
+      "Bash(grep -iE '\\\\.\\(html|jsx?|tsx?|vue|svelte\\)$')",
+      "Bash(mysql -h localhost -P 3306 -u ytmonitor -pytmonitor mybooks -e \"SELECT youtube_id, title, thumbnail, published_at, duration, views FROM videos WHERE content_type = 'full length read-aloud' ORDER BY published_at DESC;\")",
+      "Bash(python3 -m http.server 7823)",
+      "Bash(echo \"PID: $!\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:7823/videos.html)"
     ],
     "additionalDirectories": [
       "/home/aabel/github/memoriesfond",
