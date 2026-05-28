@@ -35,7 +35,11 @@
       "Bash(python3 -m http.server 7823)",
       "Bash(echo \"PID: $!\")",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:7823/videos.html)",
-      "Bash(kill 2375)"
+      "Bash(kill 2375)",
+      "Bash(mysql -u ytmonitor -pytmonitor mybooks -e \"DESCRIBE books;\")",
+      "Bash(mysql -u ytmonitor -pytmonitor mybooks -e \"SELECT id, title, illustrator, lccn FROM books ORDER BY title;\")",
+      "WebFetch(domain:a.co)",
+      "WebFetch(domain:www.amazon.com)"
     ],
     "additionalDirectories": [
       "/home/aabel/github/memoriesfond",
