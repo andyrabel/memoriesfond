@@ -15,10 +15,9 @@
     .book-detail-info .meta { font-size: 0.85rem; color: #888; margin-bottom: 1.25rem; }
     .book-detail-info p { color: #555; margin-bottom: 1rem; }
     .buy-links { margin-top: 1.5rem; }
-    .buy-links h3 { font-size: 0.9rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: #444; margin-bottom: 0.75rem; }
-    .buy-links .btn { margin-right: 0.5rem; margin-bottom: 0.5rem; font-size: 0.82rem; padding: 0.5rem 1rem; }
-    .btn-outline { background: transparent; border: 2px solid #e07b39; color: #e07b39; }
-    .btn-outline:hover { background: #e07b39; color: #fff; }
+    .buy-btn { display: inline-block; margin-right: 0.5rem; margin-bottom: 0.5rem; transition: opacity 0.15s, transform 0.15s; }
+    .buy-btn img { height: 48px; width: auto; display: block; }
+    .buy-btn:hover { opacity: 0.85; transform: translateY(-1px); }
     @media (max-width: 640px) { .book-detail { flex-direction: column; } .book-detail-cover { width: 100%; max-width: 200px; margin: 0 auto; } }
   </style>
 </head>
@@ -60,10 +59,9 @@
     <p class="meta">By Andrew Abel &nbsp;|&nbsp; Illustrated by Graeme Holding</p>
     <p>A poetic celebration of the precious bond between a child and their father — built not on material things or grand conversations, but on shared, everyday moments. Written in lyrical rhyming verse with a glossary of vocabulary words, this hardcover picture book has become Andrew's bestselling title and a favourite Father's Day gift.</p>
     <div class="buy-links">
-      <h3>Where to Buy</h3>
-      <a class="btn" href="https://a.co/d/14QSJOh" target="_blank" rel="noopener">Amazon US</a>
-      <a class="btn btn-outline" href="https://amzn.eu/d/g5fjrbS" target="_blank" rel="noopener">Amazon UK</a>
-      <a class="btn btn-outline" href="https://www.barnesandnoble.com/w/walking-with-dad-andrew-abel/1143058986?ean=9798218161743" target="_blank" rel="noopener">Barnes &amp; Noble</a>
+      <a class="buy-btn" href="https://a.co/d/14QSJOh" target="_blank" rel="noopener"><img src="../img/Amazon%20US%20Buy%20Button%20%231%20380x132.png" alt="Order on Amazon US"></a>
+      <a class="buy-btn" href="https://amzn.eu/d/g5fjrbS" target="_blank" rel="noopener"><img src="../img/Amazon%20UK%20Buy%20Button%20%231%20380x132.png" alt="Buy on Amazon UK"></a>
+      <a class="buy-btn" href="https://www.barnesandnoble.com/w/walking-with-dad-andrew-abel/1143058986?ean=9798218161743" target="_blank" rel="noopener"><img src="../img/BN%20Buy%20Button%20%231%20380x132.png" alt="Buy at Barnes &amp; Noble"></a>
     </div>
   </div>
 </div>
