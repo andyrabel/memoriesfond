@@ -11,17 +11,14 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <style>
     .contact-section { max-width: 580px; margin: 0 auto; padding: 3rem 1.5rem; }
-    .contact-section h1 { font-family: 'Lato', sans-serif; font-size: 2rem; color: #000; margin-bottom: 0.75rem; }
-    .contact-section p { color: #555; margin-bottom: 2rem; }
-    .contact-form label { display: block; font-weight: 700; font-size: 0.85rem; color: #444; margin-bottom: 0.35rem; }
-    .contact-form input, .contact-form textarea {
-      width: 100%; padding: 0.65rem 0.85rem; border: 1px solid #ddd; border-radius: 5px;
-      font-family: inherit; font-size: 0.95rem; color: #333; margin-bottom: 1.25rem;
-      transition: border-color 0.2s;
-    }
-    .contact-form input:focus, .contact-form textarea:focus { outline: none; border-color: #e07b39; }
-    .contact-form textarea { resize: vertical; min-height: 130px; }
-    .contact-form button { width: 100%; }
+    .contact-section h1 { font-family: 'Lato', sans-serif; font-size: 2rem; color: #000; margin-bottom: 0.6rem; }
+    .contact-section > p { color: #555; margin-bottom: 2rem; }
+    .contact-card { border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem 1.75rem; margin-bottom: 1.5rem; }
+    .contact-card h2 { font-family: 'Lato', sans-serif; font-size: 1.15rem; font-weight: 700; color: #000; margin-bottom: 0.6rem; }
+    .contact-card p { color: #444; font-size: 0.95rem; line-height: 1.65; margin-bottom: 1.1rem; }
+    .contact-card p:last-child { margin-bottom: 0; }
+    .contact-card a.btn { margin-top: 0.25rem; }
+    .contact-card a:not(.btn) { color: #e07b39; }
   </style>
 </head>
 <body>
@@ -61,20 +58,20 @@
 
 <div class="contact-section">
   <h1>Contact Us</h1>
-  <p>Got a question, school visit enquiry, or just want to say hello? Send a message below or email Andrew directly at <a href="mailto:andyabel@gmail.com">andyabel@gmail.com</a>.</p>
+  <p>We'd love to hear from you! Email Andrew at <a href="mailto:andyabel@gmail.com" style="color:#e07b39">andyabel@gmail.com</a>.</p>
 
-  <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" required placeholder="Your name">
+  <div class="contact-card">
+    <h2>Book Signings &amp; Author Visits</h2>
+    <p>Zac &amp; I are also available for book signings, author visits, or interviews — online or in-person. Reach out and let's make it happen!</p>
+    <a class="btn" href="mailto:andyabel@gmail.com?subject=Book%20Signing%20%2F%20Author%20Visit%20Enquiry">Get in Touch</a>
+  </div>
 
-    <label for="email">Email</label>
-    <input type="email" id="email" name="email" required placeholder="your@email.com">
+  <div class="contact-card">
+    <h2>Share a Picture or Photo!</h2>
+    <p>Did you read one of the books? We'd love to see! Send us a photo of yourself with your favourite Memories Fond book — or draw a picture of Zac, the Big Bad Wolf, a dinosaur, or any character you love. Ask a grown-up to email it to <a href="mailto:andyabel@gmail.com?subject=My%20Picture%20for%20Memories%20Fond">andyabel@gmail.com</a>.</p>
+    <a class="btn" href="mailto:andyabel@gmail.com?subject=My%20Picture%20for%20Memories%20Fond">Send a Picture</a>
+  </div>
 
-    <label for="message">Message</label>
-    <textarea id="message" name="message" required placeholder="Your message…"></textarea>
-
-    <button class="btn" type="submit">Send Message</button>
-  </form>
 </div>
 
 <footer>
