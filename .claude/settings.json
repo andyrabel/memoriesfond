@@ -49,7 +49,8 @@
       "Bash(curl -sL --max-time 15 -H 'User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/124.0.0.0 Safari/537.36' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' https://www.amazon.com/dp/B0FVCVL93S)",
       "Bash(mysql -u ytmonitor -pytmonitor mybooks -e \"SELECT id, isbn FROM book_formats WHERE isbn IS NOT NULL;\")",
       "Bash(mysql -u ytmonitor -pytmonitor mybooks -e ' *)",
-      "Bash(mysql -u ytmonitor -pytmonitor mybooks)"
+      "Bash(mysql -u ytmonitor -pytmonitor mybooks)",
+      "Bash(xargs -I{} sh -c 'echo \"{}:\"; grep \"class=\\\\\"meta\\\\\"\" \"{}\"')"
     ],
     "additionalDirectories": [
       "/home/aabel/github/memoriesfond",

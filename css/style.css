@@ -191,7 +191,8 @@ section h2 {
 .book-cover-wrap:hover { transform: translateY(-3px); box-shadow: 3px 7px 16px rgba(0,0,0,0.2); }
 .book-cover-wrap a { display: block; }
 .book-cover-wrap img { width: 100%; height: auto; display: block; }
-.book-card h3 { font-size: 0.92rem; font-weight: 700; color: #000; margin-bottom: 0.35rem; }
+.book-card h3 { font-size: 0.92rem; font-weight: 700; color: #000; margin-bottom: 0.2rem; }
+.book-card .age-label { font-size: 0.7rem; color: #888; display: block; margin-bottom: 0.3rem; }
 .book-card p { font-size: 0.8rem; color: #000; margin-bottom: 0.5rem; line-height: 1.4; }
 .book-card a.more { font-size: 0.82rem; color: #e07b39; font-weight: 700; text-decoration: none; }
 .book-card a.more:hover { text-decoration: underline; }
