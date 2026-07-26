@@ -44,6 +44,11 @@
     .play-btn i { font-size: 3rem; color: #fff; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5)); }
     .video-info { padding: 0.75rem 1rem 1rem; }
     .video-info h3 { font-family: 'Lato', sans-serif; font-size: 0.92rem; font-weight: 700; color: #222; margin: 0; line-height: 1.35; }
+    .videos-section h2 { font-family: 'Lato', sans-serif; font-size: 1.4rem; color: #000; margin: 2.5rem 0 0.75rem; }
+    .videos-section h2:first-of-type { margin-top: 0; }
+    .coming-soon-card { border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.12); background: #f7f4ef; display: flex; flex-direction: column; align-items: center; justify-content: center; aspect-ratio: 16/9; }
+    .coming-soon-card i { font-size: 2.5rem; color: #e07b39; margin-bottom: 0.5rem; }
+    .coming-soon-card span { font-family: 'Lato', sans-serif; font-weight: 700; color: #555; }
   </style>
 </head>
 <body>
@@ -85,7 +90,35 @@
 <div class="videos-section">
   <h1>Videos</h1>
   <p>Andrew produces free read-aloud videos to bring his books to life. Visit his <a href="https://www.youtube.com/@memoriesfond1953/videos" target="_blank" rel="noopener">YouTube channel</a> to watch them all.</p>
+
+  <h2>Animated Videos</h2>
   <div class="video-grid">
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=VMF5OCyzy1Q" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/VMF5OCyzy1Q/mqdefault.jpg" alt="Finding Granny — Animated Rhyming Treasure Hunt for Kids | Memories Fond" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Finding Granny — Animated Rhyming Treasure Hunt for Kids</h3></div>
+    </div>
+
+    <div class="video-card">
+      <a class="video-thumb" href="https://www.youtube.com/watch?v=cr63RmP56r8" target="_blank" rel="noopener">
+        <img src="https://i.ytimg.com/vi/cr63RmP56r8/mqdefault.jpg" alt="Adopt a Dinosaur — Animated Rhyming Read-Aloud for Kids | Memories Fond" loading="lazy">
+        <span class="play-btn"><i class="fa-brands fa-youtube"></i></span>
+      </a>
+      <div class="video-info"><h3>Adopt a Dinosaur — Animated Rhyming Read-Aloud for Kids</h3></div>
+    </div>
+
+    <div class="coming-soon-card">
+      <i class="fa-regular fa-clock"></i>
+      <span>More coming soon!</span>
+    </div>
+
+  </div>
+
+  <h2>Read-Aloud Videos</h2>
+  <div class="video-grid" id="readaloud-grid">
 
 <div class="video-card">
       <a class="video-thumb" href="https://www.youtube.com/watch?v=sNKXOBjRw8g" target="_blank" rel="noopener">
@@ -193,7 +226,7 @@
 </footer>
 
 <script>
-  const grid = document.querySelector('.video-grid');
+  const grid = document.getElementById('readaloud-grid');
   const cards = [...grid.children];
   cards.sort(() => Math.random() - 0.5);
   cards.forEach(c => grid.appendChild(c));
