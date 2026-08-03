@@ -1,0 +1,35 @@
+# Memories Fond
+
+> Memories Fond is the children's picture book brand of author Andrew Abel. He writes heartwarming, humorous, rhyming picture books for ages 3-12 — secular family stories and Christian children's stories — often illustrated by Graeme Holding or Carolyn Chaffee Lee. Andrew is based in Silicon Valley, California, originally from Helsby, Cheshire, England.
+
+All books are self-published, available in hardcover/paperback via Amazon, Barnes & Noble, and IngramSpark, and are catalogued in WorldCat for library access. Free read-aloud and animated videos of most books are on the [Memories Fond YouTube channel](https://www.youtube.com/@memoriesfond1953/videos).
+
+For full book texts, blurbs, and metadata in one place, see [llms-full.txt](https://memoriesfond.com/llms-full.txt).
+
+## Site pages
+
+- [Home](https://memoriesfond.com/index.html): Book catalog and brand overview.
+- [About Andrew Abel](https://memoriesfond.com/about.html): Author biography.
+- [Videos](https://memoriesfond.com/videos.html): Free read-aloud and animated videos of the books.
+- [Contact](https://memoriesfond.com/contact.html): Contact, book signings/author visits, and reader submissions.
+
+## Children's picture books (secular)
+
+- [A Useless Book](https://memoriesfond.com/books/a-useless-book.html): Seuss-style comedic rhyming book that claims to teach nothing while sneaking in real facts about animals, numbers, and the natural world. Ages 4-8.
+- [Seasons with Dad](https://memoriesfond.com/books/seasons-with-dad.html): Lyrical picture book celebrating a father-child bond through spring, summer, autumn, and winter in Northwest England and North Wales. Illustrated by Graeme Holding. Ages 5-12. The author's most personal book.
+- [Big Bad Wolf's Birthday](https://memoriesfond.com/books/big-bad-wolfs-birthday.html): Humorous sequel to The Three Little Pigs — a reformed, vegan Big Bad Wolf celebrates his birthday with the pigs. Ages 4-10.
+- [Finding Granny](https://memoriesfond.com/books/finding-granny.html): Rhyming picture-clue treasure hunt through the house to find Granny for a surprise hug. Illustrated by Graeme Holding. Ages 3-7.
+- [Adopt a Dinosaur](https://memoriesfond.com/books/adopt-a-dinosaur.html): Whimsical rhyming introduction to eight dinosaur species from a "Dino Adoption Agency," each explaining why it wouldn't make a good pet. Ages 4-8.
+- [I Like Earth](https://memoriesfond.com/books/i-like-earth.html): Rhyming tour of the solar system that explains why Earth is the best place to live. Ages 3-6.
+- [Slice & Ice](https://memoriesfond.com/books/slice-and-ice.html): Family members with different pizza and ice cream preferences celebrate individuality and kindness. Ages 3-7.
+- [Walking with Dad](https://memoriesfond.com/books/walking-with-dad.html): Lyrical rhyming picture book about the bond between a child and father through everyday walks. Illustrated by Graeme Holding. Ages 3-7. The author's bestselling title and a popular Father's Day gift.
+
+## Christian children's picture books
+
+- [Zac in a Santa Hat](https://memoriesfond.com/books/zac-in-a-santa-hat.html): A "God is Love" Christmas story — Zac and his caroling friends share "Away in a Manger" and the true meaning of Christmas. Ages 3-7.
+- [Zac is Back!](https://memoriesfond.com/books/zac-is-back.html): A "God is Love" story — a persistent, kind new neighbor named Zac (Zacchaeus Theophilus) shares God's love through repeated visits. Ages 3-7. The author's funniest book.
+- [The Farmer's Crop](https://memoriesfond.com/books/the-farmers-crop.html): Rhyming retelling of the Parable of the Sower, illustrated with black-and-white block prints by Carolyn Chaffee Lee. Ages 5-10.
+
+## Optional
+
+- [Sitemap](https://memoriesfond.com/sitemap.xml): Full URL list.

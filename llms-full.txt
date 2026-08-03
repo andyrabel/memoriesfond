@@ -1,0 +1,627 @@
+# Memories Fond — Full Content Reference for LLMs
+
+This file provides the complete, canonical content of memoriesfond.com — including full book texts — for language models and AI answer engines summarizing, citing, or answering questions about Andrew Abel and his books. For a short index instead, see /llms.txt.
+
+Site: https://memoriesfond.com
+Brand: Memories Fond
+Author: Andrew Abel
+Contact: andyabel@gmail.com
+
+---
+
+## About Andrew Abel
+
+Andrew Abel is a software developer based in Silicon Valley, California, originally from Helsby, Cheshire, England. He shares his life with his wife Angela and is grandfather to five grandchildren.
+
+Andrew developed his passion for spoken poetry through his grandfather, Wilfred Harrison, who enjoyed reciting poems. This familial influence shaped his creative direction toward children's literature filled with rhyming narratives, warmth, and humor.
+
+His debut books grew from the simple joy of reading to his grandchildren at bedtime. Andrew has since published a growing collection of books spanning playful picture books, gentle Christian stories, and heartfelt tributes to childhood.
+
+Andrew also produces free read-aloud and animated videos to accompany his books (https://www.youtube.com/@memoriesfond1953/videos). His works are catalogued in WorldCat for library access, and he maintains an Amazon author profile (https://www.amazon.com/author/andrewabel).
+
+All books are self-published in hardcover/paperback and are available via Amazon, Barnes & Noble, and IngramSpark (link direct from each book's page on memoriesfond.com).
+
+---
+
+## Children's Picture Books (secular)
+
+### A Useless Book
+URL: https://memoriesfond.com/books/a-useless-book.html
+Author: Andrew Abel | Ages 4-8 | Published: 2025
+
+Blurb: A laugh-out-loud rhyming picture book that proudly claims to teach nothing at all — yet sneaks in real facts about animals, numbers, and the world. For kids who love silliness, randomness, and mischief. Seuss-style humor with playful rhymes that will have children and adults giggling from cover to cover.
+
+Full text:
+
+A Useless Book
+
+You are smart, I can tell, and you're curious too.
+How do birds learn to sing? Why is one and one two?
+
+If you're hunting for answers, you won't find them here.
+There's no hint that a fawn is a sweet baby deer.
+
+If you want to remember that two and two's four,
+Or that otters use rocks to crack clams near the shore,
+
+If you're learning that two and a three make a five,
+And that wasps build a nest while the bees have a hive,
+
+If you're wanting to learn things, this book's not for you.
+There's no clue on which camels have one hump or two.
+
+Is it true that two sevens really add to fourteen?
+Or that goldfish see colors that you've never seen?
+
+Is a whale, not a fish? Is a bat not a bird?
+You can read all you wish, but you won't learn a word.
+
+This small book won't help much with your facts or your sums;
+You might as well sit and just twiddle your thumbs.
+
+You could fold up these pages to make paper planes,
+Or use them as shelter from light summer rains.
+
+If you place this small book 'neath a wobbly old chair,
+Then at last it's of use, so just leave it right there.
+
+If you want something useless with nothing to say,
+Then read it again—that's an order, okay?
+
+---
+
+### Seasons with Dad
+URL: https://memoriesfond.com/books/seasons-with-dad.html
+Author: Andrew Abel | Illustrator: Graeme Holding | Ages 5-12 | Published: 2024 | ISBN: 9798989431656
+
+Blurb: A heartwarming picture book celebrating family bonding and nature across the seasons. Lyrical verses and vibrant illustrations depict spring wildflowers, summer steam trains, autumn leaves, and winter sledging — inspired by real locations in Northwest England and North Wales. The book that means the most to Andrew personally.
+
+Full text:
+
+Seasons with Dad
+By Andrew Abel; Illustrations by Graeme Holding
+
+Walking with Dad where the wildflowers grow,
+Seeing the crocuses pushing through snow,
+Daffodils nod, and primroses glow,
+Bluebells and buttercups starting to show.
+
+Sitting with Dad by the old canal side,
+Seeing the narrowboats painted with pride,
+Tracing the wisps of the clouds in the sky,
+Catching reflections as waves ripple by.
+
+We run to the bridge as the train nears the bend,
+Waving at passengers like they're a friend!
+Billows of smoke with the sweet smell of coal,
+Hearing the clattering carriages roll.
+
+Reaching the hill where the old castle lies,
+With drawbridge and turrets that reach to the skies.
+Imagining hearing those old battle cries,
+Eating lunch on the grass where our history lies.
+
+On a bench, by the sea wall, eating ice cream,
+Viewing cloud-covered hills - feels like a dream.
+Summer with Dad where the sea meets the land:
+Donkey rides, sandcastles, soft golden sand.
+
+Looking at stars, bedroom windows spread wide,
+Seeing Orion and much more beside.
+House lights go out, silver moon upon silk;
+A hedgehog is lapping our saucer of milk!
+
+Waiting with Dad with the bait on the line.
+Glimpsing shadows of fishes, just give them time.
+Watching the sticklebacks dart through the grime.
+As flittering dragonflies catch the sunshine.
+
+Feeding the ducks at the village pond wide,
+There's a frenzy of feathers; staying close to Dad's side.
+Bulrushes sway in the evening sunshine,
+Watching the swans gliding by in a line.
+
+Autumn with Dad, raking leaves in a pile,
+Jumping right in and seeing Dad smile.
+Throwing leaves up, so they tumble like snow,
+And jumping again for just one more go!
+
+Standing with Dad, getting smoke in my eyes,
+Fireworks bursting and lighting the skies.
+Burnt cinder toffee, hot drinks by the fire,
+Flickering flames reaching higher and higher.
+
+Speeding downhill on a sled that Dad made,
+Holding tight to the rope, it's a little bit frayed.
+Wind in our faces, gliding over the snow,
+We're trudging back up for just one more go!
+
+Winter with family, the Christmas cake made,
+Holiday classics are constantly played,
+Elderly relatives tell us we've grown,
+And sit telling stories of people they've known.
+
+Seasons with Dad, taking walks, playing games
+Remembering faces, and places and names.
+From the warmth of the summer to cold winter's rain.
+Making memories fond that will always remain.
+
+---
+
+### Big Bad Wolf's Birthday
+URL: https://memoriesfond.com/books/big-bad-wolfs-birthday.html
+Author: Andrew Abel | Illustrator: Andrew Abel | Ages 4-10 | Published: 2024 | ISBN: 9798989431632
+
+Blurb: A hilarious sequel to The Three Little Pigs — the reformed wolf, now vegan and best friends with the pigs, celebrates his birthday with balloon-blowing, ironic piggy presents, and vegan cupcakes. Clever rhymes, witty twists, and hand-painted illustrations make it a firm bedtime favorite with grandchildren everywhere.
+
+Full text:
+
+The Big Bad Wolf's Birthday
+
+You may remember, how three little pigs,
+Made their houses of straw,
+… and of sticks
+… and of bricks.
+How the Big Bad Wolf tried to blow their house down.
+But the brick house stood firm, so the Bad Wolf left town.
+
+But now that you know how this whole thing began
+The wolf has calmed down, and he's a changed man.
+He's friends with the pigs, and he's a vegan!
+And today is his birthday, and the party's all planned.
+
+There's a knock at the door, and the wolf has a grin.
+"Little pigs, little pigs, will you let me in?"
+And they said, "by the hairs of my chinny, chin, chin,
+"We will let you in! Let the party begin!"
+
+They made decorations for all of the rooms
+He huffed and he puffed, and he blew up balloons.
+They hung a piñata, and all took a swing.
+And gathered up candies and dollar store bling.
+
+As he opened his presents the wolf was in awe!
+First was a hat that was made out of straw.
+Next was a rocking chair made out of sticks.
+And lastly a pizza-oven made out of bricks.
+
+They made him a cake, wrote in icing, his name
+They sang Happy Birthday again and again
+He huffed and he puffed, and he blew out the flame.
+And if it were you, I think you'd do the same.
+
+They bought him some bagpipes colored red and maroon
+He huffed and he puffed, and he blew out a tune
+He started to practice, and then very soon
+They were singing and dancing all 'round the room!
+
+I think you would say there's no merrier group
+As they sat down for dinner of hot turnip soup.
+The pigs are so glad that the wolf that was bad
+Has turned out to be
+    … the best friend they've had!
+
+---
+
+### Finding Granny
+URL: https://memoriesfond.com/books/finding-granny.html
+Author: Andrew Abel | Illustrator: Graeme Holding | Ages 3-7 | Published: 2023 | ISBN: 9798988339410
+
+Blurb: A rhyming picture book about children searching for their grandmother using visual clues hidden throughout the house — until they find her for a surprise hug. Inspired by Andrew's father's hand-drawn treasure hunts, the story teaches readers how to play the game themselves. The simple vocabulary and visual clues work for both readers and pre-readers alike.
+
+Full text:
+
+Finding Granny
+
+We're on a hunt for Granny
+Wherever can she be?
+
+Grandpa's clue looks like a plant
+But it might just be a tree.
+
+The potted plant has another clue
+Let's follow it and see.
+
+We're on a hunt for Granny
+Wherever can she be?
+
+The clue looks like a photograph
+But it might be the TV.
+
+We're on a hunt for Granny
+Wherever can she be?
+
+The clue looks like a comfy couch
+But which one would it be?
+
+I think it is the orange one
+'Cos it has room for three.
+
+We're on a hunt for Granny
+Wherever can she be?
+
+The clue looks like a pyramid
+But it might be our teepee.
+
+We're on a hunt for Granny
+Wherever can she be?
+
+The clue looks like a stepping stool.
+But which one would it be?
+
+The kitchen or the bathroom one?
+We'll have to go and see.
+
+We're on a hunt for Granny
+Wherever can she be?
+
+Surprise! She's in the laundry room,
+With hugs for you and me!
+
+---
+
+### Adopt a Dinosaur
+URL: https://memoriesfond.com/books/adopt-a-dinosaur.html
+Author: Andrew Abel | Ages 4-8 | Published: 2023 | ISBN: 9798989431601
+
+Blurb: A whimsical rhyming picture book about why dinosaurs don't make good pets. The Dino Adoption Agency has eight prehistoric creatures seeking homes — Tyson the T-Rex, Vera the Velociraptor, Tracy the Triceratops, Brad the Brachiosaurus, Steggles the Stegosaurus, Dippie & Dot the Diplodocuses, Terry the Pteranodon, and Tank the Ankylosaurus — and each explains, in their own way, exactly why adoption might not be the best idea. A pronunciation guide is included.
+
+Full text:
+
+Adopt a Dinosaur, by Andrew Abel
+
+Welcome to the Dino Adoption Agency
+We hope you find a Dino you can love!
+
+Tyrannosaurus rex, is grand,
+But not a pet, you'll understand.
+With dagger teeth and hunger vast,
+Your living room just wouldn't last.
+
+Velociraptor - smart and sly,
+But not a pet, I'll tell you why.
+They'd look around for some way out,
+And soon escape without a doubt.
+
+Triceratops, has three sharp horns,
+They'd like to eat your neighbor's lawns.
+They'd charge around and break your toys
+And surely make a lot of noise!
+
+Brachiosaurus, towering high,
+As a pet, I wouldn't try.
+They'd bellow loud and stand aloof.
+And push their head right through the roof!
+
+Stegosaurus - plated spine.
+They'd never make a pet of mine.
+Their spikey tail would swish about,
+And smash the doors and windows out.
+
+Diplodocus - long, long neck,
+Your bedroom would be quite a wreck!
+And on your lap they wouldn't sit.
+You'd never get to cuddle it.
+
+Pteranodon, flies in the sky,
+A pet it's not, you should know why.
+They'd flap their wings and smash the light
+No room to fly, it's just not right.
+
+Ankylosaurus, built so strong,
+But as a pet, it would be wrong.
+Their club-like tail would cause a fuss,
+I'd have to give a "no" from us.
+
+Dinosaurs are great to see.,
+But not as pets, just let them be.
+On ancient earth they used to roam.
+They should not live inside our home.
+
+---
+
+### I Like Earth
+URL: https://memoriesfond.com/books/i-like-earth.html
+Author: Andrew Abel | Ages 3-6 | Published: 2023 | ISBN: 9798988339496
+
+Blurb: A rhyming picture book exploring the solar system — from the Sun and Moon through to Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and even Pluto — to find the best planet to live on. It turns out Earth, with its oceans, mountains, and fresh air to breathe, is pretty much perfect. A child's-eye view of why home is best.
+
+Full text:
+
+I Like Earth
+It's the best place to live!
+
+Mercury, is near the sun,
+But it's too hot, that can't be fun.
+
+Venus, is both hot and thick,
+Its poisonous air would make me sick.
+
+The Moon - it has no atmosphere.
+I could shout but you won't hear.
+
+Mars is cold and has no air,
+I don't think I would like it there.
+
+Jupiter's a big gas ball.
+No place to jump or bounce a ball.
+
+Saturn has no solid ground.
+There's nowhere I could run around.
+
+Uranus is the coldest planet
+I'm pretty sure I could not stand it.
+
+Neptune's, far away and blue,
+Fierce winds and storms - I'd skip this too.
+
+To Pluto in the Kuiper Belt,
+With rocks and ice that never melt,
+For 10 long years I'd fly through space.
+That's such a lot of time to waste.
+
+Earth's oceans of blue, and mountains of green
+It must be the prettiest planet I've seen.
+With water to drink and sweet air to breathe
+I don't think it's somewhere that I'd want to leave.
+Is there somewhere in space that I'd like to go?
+I'll tell you right now, the answer is no!
+With all of the creatures that live on this ball
+It seems like this planet was made for us all.
+
+---
+
+### Slice & Ice
+URL: https://memoriesfond.com/books/slice-and-ice.html
+Author: Andrew Abel | Ages 3-7 | Published: 2024 | ISBN: 9798989431618
+
+Blurb: A rhyming picture book born from a real family pizza night when everyone wanted something completely different. Bubba wants pepperoni with vanilla ice cream; Princess wants all the cheese with a rainbow sherbet; Mama needs Hawaiian on a gluten-free crust; Papa goes Meat Lover with chicken wings; Granny orders vegan with a dairy-free smoothie; Grandpa wants the combo with a banana milkshake. Every person and every preference is real. Each illustration pairs the order with an American city famous for that style — New York thin crust, Wisconsin cheese, Chicago deep dish, and more. And at the end there's a fun menu where kids get to choose their very own pizza and ice cream.
+
+Full text:
+
+Slice and Ice
+
+Bubba likes his pepperoni,
+Not so much the cheese.
+He likes vanilla ice cream—
+He's an easy one to please.
+
+Princess likes it all with cheese,
+And little else besides.
+She likes a rainbow sherbet,
+With a Unicorn inside!
+
+Mama likes Hawaiian,
+With a crust that's gluten free.
+Paired with a fresh young coconut,
+She's sure to be happy!
+
+Papa wants Meat Lover,
+And some chicken wings are nice,
+With a long cool glass of soda,
+That's half way filled with ice.
+
+Granny likes her veggies,
+And maybe vegan cheese,
+With olives and with mushrooms,
+And dairy free smoothies.
+
+Grandpa likes the combo,
+With meat and veg and stuff.
+He likes banana milkshakes,
+He cannot get enough.
+
+Everyone is different,
+no one's quite the same.
+Some like different pizzas,
+Some have different names.
+
+Some like salty, some like sweet,
+But you just do your part.
+And people will be drawn to see
+Your kind and loving heart.
+
+---
+
+### Walking with Dad
+URL: https://memoriesfond.com/books/walking-with-dad.html
+Author: Andrew Abel | Illustrator: Graeme Holding | Ages 3-7 | Published: 2023 | ISBN: 9798218161743
+
+Blurb: A poetic celebration of the precious bond between a child and their father — built not on material things or grand conversations, but on shared, everyday moments. Written in lyrical rhyming verse with a glossary of vocabulary words, this hardcover picture book is Andrew's bestselling title and a favorite Father's Day gift.
+
+Full text:
+
+Walking with Dad,
+Written & read by Andrew Abel
+Illustrations by Graeme Holding
+
+Walking with Dad down an old country lane.
+Picking blackberries, with fingers fruit-stained.
+Strolling through fields filled with root veg or grain.
+Life moves us on, but the places remain.
+
+Listening with Dad in the sun, wind or rain,
+For the rooks, or an owl, or a faraway train.
+Hearing him whistle a happy refrain.
+We grow and we change, but the sounds are the same.
+
+Reading with Dad bedtime stories again,
+Of pirates and mermaids and dragons now slain.
+Resting my head as sweet dreams fill my brain.
+Drifting to sleep 'neath the warm counterpane.
+
+Watching my Dad with a jig saw and plane.
+Fashioning musicbox, castles, and games.
+Smelling the wood as he follows the grain.
+Carving his love into things that remain.
+
+In the garden with Dad - his treasured domain.
+The scent of tomato plants sweetly engrained.
+With fruit trees and flowers, too many to name.
+Marigold, Yellow rose - summer again.
+
+Climbing the hill over roughened terrain.
+With the horse at the gate, we are stroking its mane.
+Taking walks on the marsh as the day starts to wane.
+Seeing furtive wild rabbits mid sunsets aflame.
+
+Making memories fond that will always remain.
+
+© Copyright Andrew Abel 2023
+
+---
+
+## Christian Children's Picture Books
+
+### Zac in a Santa Hat
+Subtitle: A "God is Love" story
+URL: https://memoriesfond.com/books/zac-in-a-santa-hat.html
+Author: Andrew Abel | Ages 4-8 | Published: 2026 | ISBN: 9798989431670
+
+Blurb: Zac returns with caroling friends to share a Christmas song about a baby born in a manger. A neighbor joins them in learning the tune and shares refreshments. Playful rhymes, warm illustrations, and the traditional carol "Away in a Manger" invite families to sing along and explore the true meaning of Christmas.
+
+Full text:
+
+Zac in a Santa Hat
+
+I was sitting around just doing my thing,
+When all of a sudden I heard someone sing!
+I opened the door, thinking, "Now who is that?"
+It was Zac standing there, in a red Santa hat!
+
+Then he turned and he said, "Meet my caroling crew!
+There's Zeb and there's Zil and there's Zip coming too!"
+They sang of a manger, a crib, and a bed,
+And all of their words danced around in my head.
+
+I was humming it softly, and then, very soon,
+I had learned all the words and was singing the tune.
+
+"Away in a manger, no crib for a bed,
+The little Lord Jesus laid down his sweet head.
+The stars in the sky looked down where he lay,
+The little Lord Jesus asleep on the hay."
+
+Then they left to go caroling down the next street,
+With the snowflakes all stuck to the boots of their feet.
+I just stood there and thought, "Who's this child in the hay?
+And why would he sleep where the animals stay?"
+
+A little while later Zac's back at my door.
+He's singing that song, and I want to hear more.
+But his hands were so cold that they started to shake,
+So I welcomed them in for hot cocoa and cake.
+
+I had started a Christmas cake earlier that day,
+But it still looked quite plain as it cooled on the tray.
+So we layered on marzipan, smooth as could be;
+And we topped it with icing and sat down for tea.
+
+Then Zac taught me his song with such patience and care,
+His love for his Savior was easy to share.
+The song spoke of Jesus, so gentle and mild,
+God's gift to the world in the form of a child.
+
+God sent Him because of His wonderful love.
+To show us the way to the Father above.
+
+Then we all gathered 'round by the fire's warming light,
+And sang that same song on that cold winter's night.
+So now that you know all the words of this song,
+We want you to join us and all sing along!
+
+"Away in a manger, no crib for a bed,
+The little Lord Jesus laid down his sweet head.
+The stars in the sky looked down where he lay,
+The little Lord Jesus asleep on the hay."
+
+AMEN!
+
+---
+
+### Zac is Back!
+Subtitle: A "God is Love" story
+URL: https://memoriesfond.com/books/zac-is-back.html
+Author: Andrew Abel | Ages 4-8 | Published: 2024 | ISBN: 9798989431625
+
+Blurb: A comedic Christian picture book about spreading the gospel through friendship. An annoying neighbor named Zacchaeus Theophilus (Zac) repeatedly shows up asking for eggs — in ever-increasing quantities. What starts as a nuisance slowly becomes something much warmer, as Zac's persistent kindness and faith change everything. Andrew's funniest book.
+
+Full text:
+
+Zac is Back: A 'God is Love' Story
+
+I was sitting around, just doing my thing,
+When, all of a sudden, I heard the bell ring.
+I opened the door, and who should I meet . . .
+"Hi, I'm Zac, I just moved to your street."
+
+He asked for an egg, in a nice polite way.
+"Sure," I replied. "I just bought some today."
+So I gave him an egg and he laughed with delight.
+And so he ran off and was out of my sight.
+
+Zac returned moments later—said "how do you do?"
+He asked for some eggs—but now he wants . . . two.
+I gave him two eggs, and he soon skipped away.
+(I hope it's the last time I'll see him today.)
+
+A little while later he's back ringing the bell.
+What was he up to? I just couldn't tell.
+Again, it was Zac, won't he just let me be?
+Now I'm giving him eggs—this time he wants . . . three!
+
+So I turned off the doorbell.
+
+A few minutes later—a knock at the door.
+Zac says "I'm sorry", but now he wants . . . four!
+So I gave him four eggs, 'cause I'm nice that way.
+And he looked very happy, and just went away.
+
+The rest of the day I just sat in my chair.
+I kept checking the door, but he wasn't there.
+And in all of that time he didn't come back.
+I realized I missed him—my new friend, Zac.
+
+At the end of the day, when the sun had just set.
+I still hadn't seen him; I was kinda upset.
+I decided to check—give it one last try . . .
+And there he stood, with a lemon meringue pie!
+
+I brought him inside for a warm cup of tea,
+and we talked and we talked—just Zac and me.
+He spoke of God's love and His grace that was free,
+and how Jesus died for lost people like me.
+
+Now I felt very glad for the things that Zac said,
+And I thought of God's love as I headed to bed.
+
+But one thing still bugged me, I haven't a clue
+With all of those eggs, just what did he do?
+I thought and I thought, then I understood why—
+You need lots of eggs for a lemon meringue pie!
+
+But there's so much pie left!
+We thought, "What should we do?"
+So we came round this morning
+To share it with you!
+
+---
+
+### The Farmer's Crop
+URL: https://memoriesfond.com/books/the-farmers-crop.html
+Author: Andrew Abel | Illustrator: Carolyn Chaffee Li | Ages 5-10 | Published: 2023 | ISBN: 9798988339403
+
+Blurb: A rhyming poem retelling of the Parable of the Sower — the story told by Jesus in the Bible about a farmer whose seed falls on different types of ground, each yielding different results. The book encourages receptiveness to God's message and cultivating a fruitful heart. Featuring distinctive black and white block print illustrations by Carolyn Chaffee Li.
+
+Full text: not yet available in this reference file.
+
+---
+
+## Videos
+
+Free read-aloud and animated videos for most titles are published on the Memories Fond YouTube channel: https://www.youtube.com/@memoriesfond1953/videos — see https://memoriesfond.com/videos.html for an embedded index, including animated videos for Finding Granny, Adopt a Dinosaur, and Seasons with Dad.
+
+## Contact
+
+Email: andyabel@gmail.com
+Andrew is available for book signings, author visits, and interviews (online or in person). Readers are welcome to send photos or drawings inspired by the books.
